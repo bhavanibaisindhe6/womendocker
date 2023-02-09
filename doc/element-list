@@ -1,0 +1,7 @@
+com.womenempowerment
+com.womenempowerment.controller
+com.womenempowerment.entity
+com.womenempowerment.exception
+com.womenempowerment.repository
+com.womenempowerment.service
+com.womenempowerment.servicetest
